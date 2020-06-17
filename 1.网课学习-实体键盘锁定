@@ -17,6 +17,7 @@ sc config i8042prt start= auto
 由于是修改了电脑的注册表，请重启电脑
 
 4.问题：怎么恢复正常？
+备注：打开cmd,使用鼠标去：C:\Windows\System32里有个cmd.exe右键管理员运行即可
 
 4.1您需要使用外接键盘才可以。禁用键盘后就不能输入了；
 4.2或者您可以用软键盘，用鼠标控制，打开桌面版的键盘，之后您看看是否可以输入；
@@ -34,4 +35,6 @@ sc config i8042prt start= auto
             输入sfc /scannow  ---修复系统的
 
             输入netsh winsock reset  ---重置网络协议
+            
+   
              
