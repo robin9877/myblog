@@ -31,7 +31,7 @@
 
 ## 3. [建筑工程的学习](SE.md)
 3.1 CAD的学习
-1.[b站资源](CAD教学视频--基础篇)[https://www.bilibili.com/video/BV12s411Q7J5?from=search&seid=6160636109926907503]
+-1.[b站资源(CAD教学视频--基础篇)][https://www.bilibili.com/video/BV12s411Q7J5?from=search&seid=6160636109926907503]
 
      
 ##   [其他文件](other.md)
