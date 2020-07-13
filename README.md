@@ -39,7 +39,7 @@
 3.1 CAD的学习
 -1.[b站资源(CAD教学视频--基础篇)](https://www.bilibili.com/video/BV12s411Q7J5?from=search&seid=6160636109926907503)
 
-## 5. [计算机相关课程学习]
+## 5. [计算机相关课程学习](cs.md)
 4.1 数据结构和算法(cs学习中，特别重要)
 
 -1.[b站资源(简单实用-郝斌)](https://www.bilibili.com/video/BV11s41167h6?from=search&seid=13266200800408124748)
