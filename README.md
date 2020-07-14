@@ -69,6 +69,9 @@
 
      
 ##   [其他文件](other.md)
+1.chrome插件-[Dualsub][机翻字幕-已支持youtube和b站](https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp?hl=zh-CN)
 
+
+2.
 
 
