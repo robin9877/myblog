@@ -49,7 +49,20 @@
 -3.[b站资源(王道考研-适合一定基础的)](https://www.bilibili.com/video/BV1b7411N798?from=search&seid=4077881861153896879)
 
 
-## 5. 
+## 6. [leetcode](leetcode.md)
+    6.1 基础开始
+
+
+
+
+## 7.[cs相关基础练习](.md)
+
+
+1.[git的使用和练习](https://learngitbranching.js.org/?locale=zh_CN)
+## [开源地址](https://github.com/pcottle/learnGitBranching)
+
+2.
+    
 
      
 ##   [其他文件](other.md)
