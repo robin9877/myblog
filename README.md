@@ -51,6 +51,9 @@
 
 ## 6. [leetcode](leetcode.md)
     6.1 基础开始
+1.[leetcode刷题基础](https://www.bilibili.com/video/BV1GW411Q77S?from=search&seid=5601228525600736931)
+    
+
 
 
 
